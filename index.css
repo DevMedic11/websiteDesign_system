@@ -1,0 +1,195 @@
+* {
+	margin: 0;
+	padding; 0;
+}
+
+body {
+	background-color:#AED9E0; 
+}
+h1 {
+	font-family: 'Abril Fatface' , cursive;
+	font-size: 36px;
+}
+
+h2 {
+	font-family: 'Scope One', serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Scope One', serif;
+	font-size: 18px;
+}
+
+p {
+	font-family: 'Source Serif Pro', serif;
+	padding-bottom: 5px;
+}
+
+li {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 15px;
+}
+
+.title {
+	width: 75%;
+	height: 100%;
+	margin: 15px auto;
+	text-align: center;
+	line-height: 42px;
+	text-decoration: underline;
+	color: #FAF3DD;
+	background-color: #5E6472;
+	padding: 3px;
+	border: 6px solid #FAF3DD;	
+	border-radius: 6px;
+}
+
+#fatface.frosty h3 {
+	font-family: 'Abril Fatface';
+	font-size: 21px;
+	letter-spacing: 1px;
+	text-decoration: underline;	
+}
+
+#fatface.frosty p {
+	font-family: 'Abril Fatface';
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.colors {
+	width: 75%;
+	height: 100%;
+	border: 6px solid #FFA69E;
+	border-radius: 6px;
+	margin: 0px auto;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	background-color: white;
+	text-align: center;
+	}
+	
+.colors h2 {
+	color: #FFA69E;
+}
+
+h3.swatch {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 150px;
+	height: 75%;
+	padding: 90px 0;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	text-align: center;	
+}
+
+#tang {
+	font-family: 'Source One Pro', serif;
+	color: #5E6472;
+	background-color: #FFA69E;
+}
+
+#egg {
+	font-family: 'Source One Pro', serif;
+	color: #5E6472;
+	background-color: #FAF3DD;
+}
+
+#aero {
+	font-family: 'Source One Pro', serif;
+	color: #5E6472;
+	background-color: #B8F2E6;
+}
+
+#pow {
+	font-family: 'Source One Pro', serif;
+	color: #5E6472;
+	background-color: #AED9E0;
+}
+
+#coral {
+	color: #FAF3DD;
+	background-color: #5E6472;
+}
+
+.fonts {
+	width: 75%;
+	height: 100%;
+	border: 6px;
+	border-style: solid;
+	border-color: #5E6472;
+	border-radius: 6px;
+	margin: 0px auto;
+	margin-bottom: 15px;
+	padding-left: 10px;
+	background-color: #FAF3DD	
+}
+
+.fonts h2 {
+	text-align: center;
+	color: #5E6472;
+}
+
+.frosty {
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 5px;
+	width: 33%
+	justify-content: center;
+	color: #5E6472;	
+}
+
+
+#scope.frosty h3  {
+	font-family: 'Scope One', serif;
+	font-size: 21px;
+	text-decoration: underline;
+}
+
+#source.frosty h3 {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 21px;
+	text-decoration: underline;
+}
+
+.styles {
+	width: 75%;
+	height: 100%;
+	border: 6px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 6px;
+	position: relative;
+	margin: 0px auto;
+	margin-bottom: 15px;
+	padding-left: 10px;
+	background-color: #FFA69E;
+	color: #FAF3DD;
+	text-align: center;
+}
+
+.splittin {
+	box-sizing: border-box;
+	margin: 10px 15px;
+	text-align: left;
+}
+
+.styles li {
+	position:relative;
+	right: 21px;
+}
+
+#headStyle {
+	border-bottom: 3px dotted white;
+	padding-bottom: 10px;
+	width: 50%;	
+}
+
+#subStyle {
+	border-bottom: 3px dotted white;
+	padding-bottom: 10px;
+	width: 50%;
+}
